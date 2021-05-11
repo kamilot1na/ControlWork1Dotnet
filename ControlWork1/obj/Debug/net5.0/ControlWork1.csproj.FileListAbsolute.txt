@@ -1,0 +1,16 @@
+C:\Rider Projects\ControlWork1\ControlWork1\bin\Debug\net5.0\ControlWork1.exe
+C:\Rider Projects\ControlWork1\ControlWork1\bin\Debug\net5.0\ControlWork1.deps.json
+C:\Rider Projects\ControlWork1\ControlWork1\bin\Debug\net5.0\ControlWork1.runtimeconfig.json
+C:\Rider Projects\ControlWork1\ControlWork1\bin\Debug\net5.0\ControlWork1.runtimeconfig.dev.json
+C:\Rider Projects\ControlWork1\ControlWork1\bin\Debug\net5.0\ControlWork1.dll
+C:\Rider Projects\ControlWork1\ControlWork1\bin\Debug\net5.0\ref\ControlWork1.dll
+C:\Rider Projects\ControlWork1\ControlWork1\bin\Debug\net5.0\ControlWork1.pdb
+C:\Rider Projects\ControlWork1\ControlWork1\obj\Debug\net5.0\ControlWork1.csprojAssemblyReference.cache
+C:\Rider Projects\ControlWork1\ControlWork1\obj\Debug\net5.0\ControlWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Rider Projects\ControlWork1\ControlWork1\obj\Debug\net5.0\ControlWork1.AssemblyInfoInputs.cache
+C:\Rider Projects\ControlWork1\ControlWork1\obj\Debug\net5.0\ControlWork1.AssemblyInfo.cs
+C:\Rider Projects\ControlWork1\ControlWork1\obj\Debug\net5.0\ControlWork1.csproj.CoreCompileInputs.cache
+C:\Rider Projects\ControlWork1\ControlWork1\obj\Debug\net5.0\ControlWork1.dll
+C:\Rider Projects\ControlWork1\ControlWork1\obj\Debug\net5.0\ref\ControlWork1.dll
+C:\Rider Projects\ControlWork1\ControlWork1\obj\Debug\net5.0\ControlWork1.pdb
+C:\Rider Projects\ControlWork1\ControlWork1\obj\Debug\net5.0\ControlWork1.genruntimeconfig.cache
